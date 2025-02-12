@@ -1,0 +1,9 @@
+count=0
+c=int(input())
+pre=" "
+for i in range(c):
+	a=input()
+	if (a != pre):
+		count+=1
+	pre=a
+print(count)
