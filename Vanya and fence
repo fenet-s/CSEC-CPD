@@ -1,0 +1,9 @@
+h=map(int, input().split())
+a=list(map(int, input().rstrip().split()))
+sum=0
+for i in range(n):
+	if a[i]>h:
+		sum+=2
+	else:
+		sum+=1
+print(sum)
