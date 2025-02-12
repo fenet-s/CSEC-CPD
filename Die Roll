@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+int gcd(int a, int b) {
+    while (b != 0) {
+        int temp = b;
+        b = a % b;
+        a = temp;
+    }
+    return a;
+}
+
+int main() {
+    int Y, W;
+    cin >> Y >> W;
+    int M = max(Y, W);
+    int favorable = 6 - M + 1;
+    int total = 6;
+    int gcd_val = gcd(favorable, total);
+    cout << favorable / gcd_val << "/" << total / gcd_val << endl;
+
+    return 0;
