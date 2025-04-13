@@ -1,0 +1,6 @@
+class Solution:
+    def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
+        combined_tuples = list(zip(names, heights))
+        combined_tuples.sort(key=lambda x: x[1], reverse=True)
+        sorted_names = [name for name, height in combined_tuples]
+        return sorted_names
