@@ -2,10 +2,10 @@ n=int(input())
 s=input()
 A=0
 D=0
-for i in range(n):
-	if s[i]=="A":
+for j in range(n):
+	if s[j]=="A":
 		A+=1
-	elif s[i]=="D":
+	elif s[j]=="D":
 		D+=1
 if A>D:
 	print("Anton")
