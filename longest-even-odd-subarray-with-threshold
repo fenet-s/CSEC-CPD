@@ -1,0 +1,18 @@
+class Solution:
+    def longestAlternatingSubarray(self, nums: List[int], threshold: int) -> int:
+        l = 0
+        res = 0
+
+        while l < len(nums):
+            if nums[l] % 2 == 0 and nums[l] <= threshold:
+                r = l + 1
+                count = 1
+
+                while r < len(nums) and nums[r] <= threshold and (nums[r] % 2 != nums[r-1] % 2):
+                    count += 1
+                    r += 1
+                
+                res = max(res, count)
+            l += 1
+
+        return res
