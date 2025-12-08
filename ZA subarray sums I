@@ -1,0 +1,18 @@
+n, x = map(int, input().split())
+a = list(map(int, input().split()))
+
+count = 0
+start = 0
+sum_ = 0
+
+for end in range(n):
+    sum_ += a[end]
+
+    while sum_ > x:
+        sum_ -= a[start]
+        start += 1
+
+    if sum_ == x:
+        count += 1
+
+print(count)
