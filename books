@@ -1,0 +1,20 @@
+n, t = map(int, input().split())
+a = list(map(int, input().split()))
+
+l = 0
+prev = 0
+count = 0
+ans = 0   
+
+for i in range(n):
+    prev += a[i]
+    count += 1
+
+    while prev > t:
+        prev -= a[l]
+        count -= 1
+        l += 1
+
+    ans = max(ans, count)
+
+print(ans)
