@@ -39,4 +39,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/fenet-s/CSEC-CPD/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/fenet-s/CSEC-CPD/tree/master/2600-k-items-with-the-maximum-sum) |
+## Greedy
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/fenet-s/CSEC-CPD/tree/master/2600-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
