@@ -17,6 +17,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/fenet-s/CSEC-CPD/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/fenet-s/CSEC-CPD/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fenet-s/CSEC-CPD/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,8 +63,18 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/fenet-s/CSEC-CPD/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fenet-s/CSEC-CPD/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/fenet-s/CSEC-CPD/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fenet-s/CSEC-CPD/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Hash Table
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fenet-s/CSEC-CPD/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Counting
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fenet-s/CSEC-CPD/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
