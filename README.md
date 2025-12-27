@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/fenet-s/CSEC-CPD/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/fenet-s/CSEC-CPD/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,4 +58,12 @@
 | [0860-lemonade-change](https://github.com/fenet-s/CSEC-CPD/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/fenet-s/CSEC-CPD/tree/master/0976-largest-perimeter-triangle) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/fenet-s/CSEC-CPD/tree/master/2600-k-items-with-the-maximum-sum) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/fenet-s/CSEC-CPD/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/fenet-s/CSEC-CPD/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
