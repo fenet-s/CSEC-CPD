@@ -28,6 +28,7 @@
 | ------- |
 | [0015-3sum](https://github.com/fenet-s/CSEC-CPD/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/fenet-s/CSEC-CPD/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 | [0986-interval-list-intersections](https://github.com/fenet-s/CSEC-CPD/tree/master/0986-interval-list-intersections) |
 ## Line Sweep
 |  |
@@ -40,6 +41,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/fenet-s/CSEC-CPD/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -72,9 +74,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fenet-s/CSEC-CPD/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Counting
 |  |
 | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fenet-s/CSEC-CPD/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
