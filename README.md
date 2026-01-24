@@ -12,6 +12,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/fenet-s/CSEC-CPD/tree/master/0976-largest-perimeter-triangle) |
 | [0986-interval-list-intersections](https://github.com/fenet-s/CSEC-CPD/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/fenet-s/CSEC-CPD/tree/master/1004-max-consecutive-ones-iii) |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/fenet-s/CSEC-CPD/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/fenet-s/CSEC-CPD/tree/master/1004-max-consecutive-ones-iii) |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/fenet-s/CSEC-CPD/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/fenet-s/CSEC-CPD/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
