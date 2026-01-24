@@ -42,6 +42,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/fenet-s/CSEC-CPD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/fenet-s/CSEC-CPD/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/fenet-s/CSEC-CPD/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -76,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/fenet-s/CSEC-CPD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/fenet-s/CSEC-CPD/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Counting
@@ -85,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/fenet-s/CSEC-CPD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
