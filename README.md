@@ -33,6 +33,7 @@
 | [0455-assign-cookies](https://github.com/fenet-s/CSEC-CPD/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 | [0986-interval-list-intersections](https://github.com/fenet-s/CSEC-CPD/tree/master/0986-interval-list-intersections) |
+| [2938-separate-black-and-white-balls](https://github.com/fenet-s/CSEC-CPD/tree/master/2938-separate-black-and-white-balls) |
 ## Line Sweep
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0860-lemonade-change](https://github.com/fenet-s/CSEC-CPD/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/fenet-s/CSEC-CPD/tree/master/0976-largest-perimeter-triangle) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/fenet-s/CSEC-CPD/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2938-separate-black-and-white-balls](https://github.com/fenet-s/CSEC-CPD/tree/master/2938-separate-black-and-white-balls) |
 ## Queue
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fenet-s/CSEC-CPD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
+| [2938-separate-black-and-white-balls](https://github.com/fenet-s/CSEC-CPD/tree/master/2938-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
