@@ -14,6 +14,7 @@
 | [0986-interval-list-intersections](https://github.com/fenet-s/CSEC-CPD/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/fenet-s/CSEC-CPD/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/fenet-s/CSEC-CPD/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/fenet-s/CSEC-CPD/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Design
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0567-permutation-in-string](https://github.com/fenet-s/CSEC-CPD/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/fenet-s/CSEC-CPD/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/fenet-s/CSEC-CPD/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/fenet-s/CSEC-CPD/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
 | ------- |
@@ -99,4 +101,5 @@
 |  |
 | ------- |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/fenet-s/CSEC-CPD/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/fenet-s/CSEC-CPD/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
