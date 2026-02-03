@@ -7,6 +7,7 @@
 | ------- |
 | [0015-3sum](https://github.com/fenet-s/CSEC-CPD/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/fenet-s/CSEC-CPD/tree/master/0016-3sum-closest) |
+| [0066-plus-one](https://github.com/fenet-s/CSEC-CPD/tree/master/0066-plus-one) |
 | [0303-range-sum-query-immutable](https://github.com/fenet-s/CSEC-CPD/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/fenet-s/CSEC-CPD/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/fenet-s/CSEC-CPD/tree/master/0860-lemonade-change) |
@@ -61,6 +62,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/fenet-s/CSEC-CPD/tree/master/0066-plus-one) |
 | [0976-largest-perimeter-triangle](https://github.com/fenet-s/CSEC-CPD/tree/master/0976-largest-perimeter-triangle) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/fenet-s/CSEC-CPD/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Greedy
