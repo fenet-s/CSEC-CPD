@@ -7,6 +7,7 @@
 | ------- |
 | [0015-3sum](https://github.com/fenet-s/CSEC-CPD/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/fenet-s/CSEC-CPD/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/fenet-s/CSEC-CPD/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/fenet-s/CSEC-CPD/tree/master/0066-plus-one) |
 | [0303-range-sum-query-immutable](https://github.com/fenet-s/CSEC-CPD/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/fenet-s/CSEC-CPD/tree/master/0455-assign-cookies) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0015-3sum](https://github.com/fenet-s/CSEC-CPD/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/fenet-s/CSEC-CPD/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/fenet-s/CSEC-CPD/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/fenet-s/CSEC-CPD/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/fenet-s/CSEC-CPD/tree/master/0976-largest-perimeter-triangle) |
 ## Math
